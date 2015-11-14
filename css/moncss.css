@@ -12,6 +12,11 @@ border: 2px	solid red;
 #boiteune {	
 
 border: 2px	solid green;
+border-top-width: 100px;
+    border-right-width: 20px;
+    border-left-width: 20px;
+    border-bottom-width: 40px;
+}
 
 
 
